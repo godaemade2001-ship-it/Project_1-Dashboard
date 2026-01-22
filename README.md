@@ -90,6 +90,7 @@ IF(
 ![Job Type Analysis](images/1_Salary_Dashboard_Screenshot2.png)
 
 **📉 Dashboard Implementation:**
+
 <img src="images/1_Salary_Dashboard_Type.png" width="350" alt="Salary Dashboard Type">
 ### ❎ Data Validation
 
