@@ -72,6 +72,7 @@ IF(
 🍽️ Background Table
 
 ![Median Salary Formula](images/1_Salary_Dashboard_Screenshot1.png)
+
 📉 Dashboard Implementation
 
 <img src="images/1_Salary_Dashboard_Job_Title.png" width="400" alt="Salary Dashboard Title">
